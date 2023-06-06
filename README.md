@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 📫 How to reach me:
 
 [Linkedin](https://www.linkedin.com/in/sahilmore)
-[Mail](mailto:contactsahilmore@gmail.com)
+
+[Email](mailto:contactsahilmore@gmail.com)
