@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 [Linkedin](https://www.linkedin.com/in/sahilmore)
 
+[Medium](https://medium.com/@sahil-more)
+
 [Email](mailto:contactsahilmore@gmail.com)
