@@ -46,6 +46,7 @@ Welcome to my GitHub profile! I am a fullstack software developer with experienc
 ## 🌱 My Projects
 
 - [Stream Flix](https://github.com/sahilmore-git/stream-flix): A Netflix-like video streaming platform.
+- [Tabs Silencer](https://github.com/sahilmore-git/tabs-silencer): Mute/Unmute all tabs in Chrome with a single button click. Listen to only what you want to hear.
 - [BE+FE MERN App](https://github.com/sahilmore-git/MERN_LoginSystem): MERN fullstack application.
 - [Shopping Website with Payments](https://github.com/sahilmore-git/ShoppingWebsite): Fully functional shopping website with payments integration.
 
