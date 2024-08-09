@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a fullstack software developer with experienc
 - 🔭 I’m currently working as a Software Engineer.
 - 🌱 I’m currently working on React, NextJS and NodeJS.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about JavsaScript.
+- 💬 Ask me about JavaScript.
 - 📫 How to reach me: [Email](mailto:contactsahilmore@gmail.com) or [Linkedin](https://www.linkedin.com/in/sahilmore)
 - ⚡ Fact check: I find it fascinating how small tweaks in code can lead to elegant and unexpected solutions.
 
